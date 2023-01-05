@@ -15,6 +15,17 @@ In this Pacman game, you will use the left click button on your mouse to move Pa
 Code Structure
 The HTML code for the Pacman game is contained in the pacman.html file. 
 
+How to Run
+To run this project, simply open the index.html file in a web browser. The animation should start automatically.
+
+Roadmap for Future Improvements
+Add more levels to the game with different layouts and challenges
+Implement power-ups and enemy ghosts
+Allow users to control Pacman's movement with keyboard input
+
+License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
 
 Conclusion
 I hope you have fun working on this Pacman coding exercise! If you have any questions, don't hesitate to ask.
